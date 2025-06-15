@@ -2,6 +2,10 @@
 
 An Android implementation of the classic Tetris game built with Kotlin.
 
+## Download
+
+Get the latest APK [here](releases/MyTetris-v1.0.apk)
+
 ## Features
 - Classic Tetris gameplay
 - Smooth block movement and rotation
